@@ -1,3 +1,8 @@
+[![Website](https://img.shields.io/badge/Website-%20www.omarayyad.tech-blue)](https://www.omarayyad.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Connect-blue)](https://www.linkedin.com/in/omar-ayyad/)
+[![Facebook](https://img.shields.io/badge/Facebook-%20Follow-blue)](https://www.facebook.com/omarayyad25/)
+[![Instagram](https://img.shields.io/badge/Instagram-%20Follow-blue)](https://www.instagram.com/nomar25___/)
+
 # Hi, I'm Omar Ayyad! 👋
 
 I'm an ambitious Software Engineer currently pursuing a degree in Communication and Information Engineering at Zewail City. My journey in the world of technology is driven by a deep passion for creating innovative solutions that make a positive impact.
