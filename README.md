@@ -1,4 +1,3 @@
-[![Website](https://img.shields.io/badge/Website-%20www.omarayyad.tech-blue)](https://www.omarayyad.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Connect-blue)](https://www.linkedin.com/in/omar-ayyad/)
 [![Facebook](https://img.shields.io/badge/Facebook-%20Follow-blue)](https://www.facebook.com/omarayyad25/)
 [![Instagram](https://img.shields.io/badge/Instagram-%20Follow-blue)](https://www.instagram.com/nomar25___/)
@@ -49,6 +48,6 @@ My skillset spans a wide range of technologies, including:
 
 ## Get in Touch
 
-I believe that collaboration is the key to unlocking the full potential of technology. If you'd like to connect, collaborate, or discuss exciting opportunities, feel free to reach out to me through [my website](https://www.omarayyad.tech) or connect with me on [LinkedIn](https://www.linkedin.com/in/omar-ayyad/).
+I believe that collaboration is the key to unlocking the full potential of technology. If you'd like to connect, collaborate, or discuss exciting opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/omar-ayyad/).
 
 You can also drop me an email at s-omar.ayyad@zewailcity.edu.eg. Let's code, innovate, and build a better future together! 🚀
